@@ -1,0 +1,24 @@
+body {
+  padding-top: 30px;
+}
+
+h1 {
+  margin-bottom: 15px;
+}
+
+.caption {
+  color: #aa1313;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+blockquote {
+  background-color: #eeeeee;
+  border-left: 5px solid #555555;
+  margin: 25px 0;
+  padding: 15px;
+}
+
+.small {
+  color: #555;
+}
